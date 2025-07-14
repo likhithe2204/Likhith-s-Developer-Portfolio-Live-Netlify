@@ -37,7 +37,7 @@ This portfolio showcases my projects, skills, education, and resume — built us
     <th>Screenshot</th>
   </tr>
   <tr>
-    <td><b>About Me</b></td>
+    <td><b>About Me🌱</b></td>
     <td><img src="./About me.JPG" alt="About Me" width="300"/></td>
   </tr>
   <tr>
