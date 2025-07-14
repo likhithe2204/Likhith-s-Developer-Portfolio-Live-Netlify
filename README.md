@@ -45,3 +45,22 @@ git clone https://github.com/likhithe2204/myPortfolio.git
 cd myPortfolio
 # Open index.html in your browser
 ```
+
+---
+
+## 👨‍💻 Author
+
+**Likhith Edupuganti**
+
+📧 [Email](mailto:likhith_edupuganti@srmap.edu.in)  
+🔗 [LinkedIn](https://www.linkedin.com/in/likhithedupuganti)  
+🌐 [Portfolio](https://portfoliobylikhith.netlify.app/)
+
+---
+
+## ⭐ Show Some Love
+
+```bash
+🌟 Star this repo
+🍴 Fork if useful
+📩 Contact for collaboration
