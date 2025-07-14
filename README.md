@@ -37,19 +37,19 @@ This portfolio showcases my projects, skills, education, and resume — built us
     <th>Screenshot</th>
   </tr>
   <tr>
-    <td><b>About Me🌱</b></td>
+    <td><b>About Me 🌱</b></td>
     <td><img src="./About me.JPG" alt="About Me" width="300"/></td>
   </tr>
   <tr>
-    <td><b>Project 1🎯 – Healthcare Appointments</b></td>
+    <td><b>Project 1 🎯 – Healthcare Appointments</b></td>
     <td><img src="./HealthCareAppointSyst.jpg" alt="Healthcare App" width="300"/></td>
   </tr>
   <tr>
-    <td><b>Project 2🎯 – Burnout Prediction</b></td>
+    <td><b>Project 2 🎯 – Burnout Prediction</b></td>
     <td><img src="./Employee-Burnout.jpg" alt="Burnout Prediction" width="300"/></td>
   </tr>
   <tr>
-    <td><b>Project 3🎯 – Heart Disease</b></td>
+    <td><b>Project 3 🎯 – Heart Disease</b></td>
     <td><img src="./HeartDiseasePred.png" alt="Heart Disease" width="300"/></td>
   </tr>
 </table>
