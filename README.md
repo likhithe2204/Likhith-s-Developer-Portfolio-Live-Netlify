@@ -29,12 +29,32 @@ This portfolio showcases my projects, skills, education, and resume — built us
 
 ## 📸 Preview
 
-| Section | Screenshot |
-|--------|------------|
-| About Me | ![About](./About%20me.JPG) |
-| Project – Healthcare Appointments | ![Health App](./HealthCareAppointSyst.jpg) |
-| Project – Burnout Prediction | ![Burnout](./Employee-Burnout.jpg) |
-| Project – Heart Disease | ![Heart](./HeartDiseasePred.png) |
+<div align="center">
+
+<table>
+  <tr>
+    <th>Section</th>
+    <th>Screenshot</th>
+  </tr>
+  <tr>
+    <td><b>About Me</b></td>
+    <td><img src="./About me.JPG" alt="About Me" width="300"/></td>
+  </tr>
+  <tr>
+    <td><b>Project – Healthcare Appointments</b></td>
+    <td><img src="./HealthCareAppointSyst.jpg" alt="Healthcare App" width="300"/></td>
+  </tr>
+  <tr>
+    <td><b>Project – Burnout Prediction</b></td>
+    <td><img src="./Employee-Burnout.jpg" alt="Burnout Prediction" width="300"/></td>
+  </tr>
+  <tr>
+    <td><b>Project – Heart Disease</b></td>
+    <td><img src="./HeartDiseasePred.png" alt="Heart Disease" width="300"/></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
