@@ -7,7 +7,7 @@ This portfolio showcases my projects, skills, education, and resume — built us
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack 
 
 - HTML5  
 - CSS3  
